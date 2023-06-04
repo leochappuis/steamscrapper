@@ -1,6 +1,6 @@
 {
   "name": "steamscrapper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Quickly find app ids corresponding to a game you want to search for and then extract all steam market page info about that game.",
   "main": "index.js",
   "scripts": {
